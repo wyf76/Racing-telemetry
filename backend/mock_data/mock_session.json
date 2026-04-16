@@ -1,0 +1,70 @@
+{
+  "source_key": "mock-spa-gt3-practice-001",
+  "sim": "ACC",
+  "track": "Spa-Francorchamps",
+  "car": "Porsche 911 GT3 R",
+  "session_type": "Practice",
+  "started_at": "2026-04-15T18:30:00Z",
+  "laps": [
+    {
+      "lap_number": 1,
+      "lap_time_ms": 142830,
+      "sector1_ms": 46850,
+      "sector2_ms": 49180,
+      "sector3_ms": 46750,
+      "is_valid": true,
+      "telemetry": [
+        {"distance": 0, "speed": 94, "throttle": 0.62, "brake": 0, "steering": 0.03},
+        {"distance": 250, "speed": 151, "throttle": 0.91, "brake": 0, "steering": -0.01},
+        {"distance": 500, "speed": 214, "throttle": 1, "brake": 0, "steering": 0.01},
+        {"distance": 750, "speed": 241, "throttle": 1, "brake": 0, "steering": -0.04},
+        {"distance": 1000, "speed": 173, "throttle": 0.28, "brake": 0.64, "steering": 0.19}
+      ]
+    },
+    {
+      "lap_number": 2,
+      "lap_time_ms": 141420,
+      "sector1_ms": 46310,
+      "sector2_ms": 48670,
+      "sector3_ms": 46440,
+      "is_valid": true,
+      "telemetry": [
+        {"distance": 0, "speed": 99, "throttle": 0.68, "brake": 0, "steering": 0.02},
+        {"distance": 250, "speed": 158, "throttle": 0.94, "brake": 0, "steering": -0.02},
+        {"distance": 500, "speed": 221, "throttle": 1, "brake": 0, "steering": 0},
+        {"distance": 750, "speed": 247, "throttle": 1, "brake": 0, "steering": -0.03},
+        {"distance": 1000, "speed": 181, "throttle": 0.35, "brake": 0.58, "steering": 0.16}
+      ]
+    },
+    {
+      "lap_number": 3,
+      "lap_time_ms": 140980,
+      "sector1_ms": 46090,
+      "sector2_ms": 48420,
+      "sector3_ms": 46470,
+      "is_valid": true,
+      "telemetry": [
+        {"distance": 0, "speed": 101, "throttle": 0.7, "brake": 0, "steering": 0.01},
+        {"distance": 250, "speed": 161, "throttle": 0.96, "brake": 0, "steering": -0.01},
+        {"distance": 500, "speed": 224, "throttle": 1, "brake": 0, "steering": 0},
+        {"distance": 750, "speed": 250, "throttle": 1, "brake": 0, "steering": -0.02},
+        {"distance": 1000, "speed": 184, "throttle": 0.39, "brake": 0.55, "steering": 0.14}
+      ]
+    },
+    {
+      "lap_number": 4,
+      "lap_time_ms": 143260,
+      "sector1_ms": 47010,
+      "sector2_ms": 49560,
+      "sector3_ms": 46690,
+      "is_valid": false,
+      "telemetry": [
+        {"distance": 0, "speed": 96, "throttle": 0.59, "brake": 0, "steering": 0.04},
+        {"distance": 250, "speed": 149, "throttle": 0.88, "brake": 0, "steering": -0.03},
+        {"distance": 500, "speed": 209, "throttle": 0.96, "brake": 0, "steering": 0.02},
+        {"distance": 750, "speed": 235, "throttle": 0.92, "brake": 0.05, "steering": -0.08},
+        {"distance": 1000, "speed": 166, "throttle": 0.18, "brake": 0.72, "steering": 0.24}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+source_key,sim,track,car,session_type,started_at,lap_number,lap_time_ms,sector1_ms,sector2_ms,sector3_ms,is_valid,distance,speed,throttle,brake,steering
+mock-csv-spa-gt3-practice-001,ACC,Spa-Francorchamps,Porsche 911 GT3 R,Practice,2026-04-15T18:30:00Z,1,142830,46850,49180,46750,true,0,94,0.62,0,0.03
+mock-csv-spa-gt3-practice-001,ACC,Spa-Francorchamps,Porsche 911 GT3 R,Practice,2026-04-15T18:30:00Z,1,142830,46850,49180,46750,true,250,151,0.91,0,-0.01
+mock-csv-spa-gt3-practice-001,ACC,Spa-Francorchamps,Porsche 911 GT3 R,Practice,2026-04-15T18:30:00Z,1,142830,46850,49180,46750,true,500,214,1,0,0.01
+mock-csv-spa-gt3-practice-001,ACC,Spa-Francorchamps,Porsche 911 GT3 R,Practice,2026-04-15T18:30:00Z,2,141420,46310,48670,46440,true,0,99,0.68,0,0.02
+mock-csv-spa-gt3-practice-001,ACC,Spa-Francorchamps,Porsche 911 GT3 R,Practice,2026-04-15T18:30:00Z,2,141420,46310,48670,46440,true,250,158,0.94,0,-0.02
+mock-csv-spa-gt3-practice-001,ACC,Spa-Francorchamps,Porsche 911 GT3 R,Practice,2026-04-15T18:30:00Z,2,141420,46310,48670,46440,true,500,221,1,0,0
