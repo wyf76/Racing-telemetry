@@ -150,3 +150,4 @@ Planned next:
 
 - Show one telemetry chart
 - Parse real iRacing or ACC exports
+- HackathonAdaL test marker (2026-05-16)
