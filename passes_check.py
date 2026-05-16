@@ -22,7 +22,7 @@ UPLOAD_DIR = Path(os.environ.get("APP_UPLOAD_DIR", "/tmp/uploads")).resolve()
 def _require_env(name: str) -> str:
     value = os.environ.get(name)
     if not value:
-        raise RuntimeError(f"{name} environment variable is required Lets try asdasdasdasdasasd")
+        raise RuntimeError(f"{name} environment variable is required but not set")
     return value
 
 
